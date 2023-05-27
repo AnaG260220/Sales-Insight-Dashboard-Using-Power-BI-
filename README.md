@@ -1,5 +1,9 @@
 ## Sales Insights Data Analysis Project
 
+### Purpose : To unlock sales insights that are not visible before for the sales team for decision support and automate them to reduced manual time in data gathering.
+
+### End Result: An automated dashboard providing quick and latest sights in order to support data driven decision making
+
 ### Instructions to setup mysql on your local computer
 
 1. Follow step in this video to install mysql on your local computer
